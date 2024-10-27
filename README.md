@@ -11,6 +11,7 @@ or (OR),
 ---------------------------------
 
 Running the Program:
+
 Execute the script (the py file) in a Python environment.
 There will be a three (3) options of the program:
 Option 1: Read logical statements from a file.
